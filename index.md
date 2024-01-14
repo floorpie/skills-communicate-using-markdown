@@ -12,6 +12,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
-- [] stuff
-- [] stuff 2
-- [] stuff 3
+- [ ] stuff
+- [ ] stuff 2
+- [ ] stuff 3
